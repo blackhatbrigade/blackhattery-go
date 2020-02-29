@@ -1,4 +1,4 @@
-module blackhattery
+module blackhattery-go
 
 go 1.13
 

@@ -4,6 +4,9 @@ import (
   "time"
 )
 
+// This part of the code handles the read model for the specified entity.
+// Mostly used for projections by the command handlers?
+
 var bullshitDatabase *BullshitDatabase
 
 type BlogPostsFacade interface {

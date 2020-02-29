@@ -1,7 +1,8 @@
 package main
 
 import (
-  "blackhattery/blogs"
+  "github.com/blackhatbrigade/blackhattery-go/blogs"
+
 	"github.com/jetbasrawi/go.cqrs"
 )
 

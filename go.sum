@@ -1,3 +1,4 @@
+github.com/blackhatbrigade/blackhattery-go v0.0.0-20200228231051-bc04a47b65a7 h1:Bho+WBLrtsvNgbdUHp4E0Zg/YJTUMzTFnqwV9bWhVY8=
 github.com/jetbasrawi/go.cqrs v0.0.0-20190206233932-e4d812d57f09 h1:3WtkKcUoF4lszdU8zqX2eeLPtT2PE0FF6dC11yhznCQ=
 github.com/jetbasrawi/go.cqrs v0.0.0-20190206233932-e4d812d57f09/go.mod h1:kAwo/aeGRFkDFPkjHm1GMi3Klcc3PXqBRAMQOPUO6L0=
 github.com/jetbasrawi/go.geteventstore v1.0.0 h1:eRICKjH59qET0lQG5pOPllWgLiOLdeLOaOR78Y3iM6c=
