@@ -1,4 +1,4 @@
-module blackhattery-go 0.1.0
+module github.com/blackhatbrigade/blackhattery-go
 
 go 1.13
 
